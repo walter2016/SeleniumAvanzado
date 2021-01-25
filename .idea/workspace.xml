@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7000c551-51c9-424d-8e54-cfb505ef6fca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WdhPxnHYaI3L80uN9G9yap8w7N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/drivers" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Walter Quintanilla\IdeaProjects\SeleniumAvanzado\drivers" />
+      <recent name="C:\Users\Walter Quintanilla\IdeaProjects\SeleniumAvanzado\lib" />
+      <recent name="C:\Users\Walter Quintanilla\IdeaProjects\SeleniumAvanzado\lib\Selenium" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LogsTest">
+    <configuration name="C:/Users/Walter Quintanilla/IdeaProjects/SeleniumAvanzado/CrossBrowser.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAvanzado" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/CrossBrowser.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAvanzado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.walter.avanzado.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.walter.avanzado" />
+      <option name="MAIN_CLASS_NAME" value="org.walter.avanzado.LogsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoboApi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAvanzado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.walter.avanzado.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.walter.avanzado" />
+      <option name="MAIN_CLASS_NAME" value="org.walter.avanzado.RoboApi" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LogsTest" />
+        <item itemvalue="TestNG.C:/Users/Walter Quintanilla/IdeaProjects/SeleniumAvanzado/CrossBrowser.xml" />
+        <item itemvalue="TestNG.RoboApi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7000c551-51c9-424d-8e54-cfb505ef6fca" name="Default Changelist" comment="" />
+      <created>1579485359019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579485359019</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579491666478">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="410" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1579491666478" />
+    <state x="322" y="52" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1579664645759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="322" y="52" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1366.728@0.0.1366.728" timestamp="1579664645759" />
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1580599085278">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1580599085278" />
+    <state x="389" y="106" key="FileChooserDialogImpl" timestamp="1582343599649">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582343599649" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1582344413357">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582344413357" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1582344413356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582344413356" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1582344413356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582344413356" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1582344413356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582344413356" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1582343674416">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582343674416" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1587920107720">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587920107720" />
+    <state x="387" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582343662578">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1582343662578" />
+  </component>
+</project>

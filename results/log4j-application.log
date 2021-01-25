@@ -1,0 +1,33 @@
+2020-01-19 21:46:14 INFO  LogsTest:34 - Opening website: http://healthunify.com/bmicalculator
+2020-01-19 21:46:14 INFO  LogsTest:53 - Entering weight
+2020-01-19 21:46:14 INFO  LogsTest:55 - Selected Kilograms
+2020-01-19 21:46:14 INFO  LogsTest:57 - selecting height in feet
+2020-01-19 21:46:15 INFO  LogsTest:59 - selecting height in inchs
+2020-01-19 21:46:15 INFO  LogsTest:61 - Clicking on Calculate
+2020-01-19 21:46:15 INFO  LogsTest:69 - SI unit27.46
+2020-01-19 21:46:15 INFO  LogsTest:70 - US unit27.92
+2020-01-19 21:46:15 INFO  LogsTest:71 - UK unit174.37
+2020-01-19 21:46:15 INFO  LogsTest:72 - Description27.46
+2020-01-19 21:46:16 INFO  LogsTest:46 - Browser closed!
+2020-01-19 21:47:34 INFO  LogsTest:34 - Opening website: http://healthunify.com/bmicalculator
+2020-01-19 21:47:34 INFO  LogsTest:53 - Entering weight
+2020-01-19 21:47:34 INFO  LogsTest:55 - Selected Kilograms
+2020-01-19 21:47:34 INFO  LogsTest:57 - selecting height in feet
+2020-01-19 21:47:34 INFO  LogsTest:59 - selecting height in inchs
+2020-01-19 21:47:35 INFO  LogsTest:61 - Clicking on Calculate
+2020-01-19 21:47:35 INFO  LogsTest:69 - SI unit27.46
+2020-01-19 21:47:35 INFO  LogsTest:70 - US unit27.92
+2020-01-19 21:47:35 INFO  LogsTest:71 - UK unit174.37
+2020-01-19 21:47:35 INFO  LogsTest:72 - Description27.46
+2020-01-19 21:47:36 INFO  LogsTest:46 - Browser closed!
+2020-02-21 21:50:04 INFO  LogsTest:34 - Opening website: http://healthunify.com/bmicalculator
+2020-02-21 21:50:04 INFO  LogsTest:53 - Entering weight
+2020-02-21 21:50:12 INFO  LogsTest:55 - Selected Kilograms
+2020-02-21 21:50:13 INFO  LogsTest:57 - selecting height in feet
+2020-02-21 21:50:13 INFO  LogsTest:59 - selecting height in inchs
+2020-02-21 21:50:13 INFO  LogsTest:61 - Clicking on Calculate
+2020-02-21 21:50:13 INFO  LogsTest:69 - SI unit27.46
+2020-02-21 21:50:13 INFO  LogsTest:70 - US unit27.92
+2020-02-21 21:50:13 INFO  LogsTest:71 - UK unit174.37
+2020-02-21 21:50:13 INFO  LogsTest:72 - Description27.46
+2020-02-21 21:50:14 INFO  LogsTest:46 - Browser closed!
